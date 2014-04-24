@@ -4,8 +4,8 @@
 #Ok, the Canopy shell thing was wrong. Workflow as of 2014-04-08
 #Move .ps files to THIS directory; run script; move .ps & .pdfs home
 
+clear
 
 for i in $(ls *.ps); do
     ps2pdfwr $i;
 done
-clear
