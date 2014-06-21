@@ -2,3 +2,4 @@
 *.exe
 *.pdf
 *.sublime-workspace
+.DS_Store
