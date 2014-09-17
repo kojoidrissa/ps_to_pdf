@@ -1,2 +1,2 @@
-mv *.ps /m/Dbsteam/BUDGET/Jackie/qtr_rpt/Q4\ 2013/
-mv *.pdf /m/Dbsteam/BUDGET/Jackie/qtr_rpt/Q4\ 2013/
+mv /m/Dbsteam/BUDGET/Jackie/MNTH_RPT/*.ps /c/Users/kidrissa/projects/ps_to_pdf
+ps_pdf_gen.sh 
